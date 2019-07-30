@@ -9,5 +9,4 @@ GNSS ntrip broadcaster executables.
 5. By default, ntrip servers password is admin. The program support multiple servers passwords and mountpoint control, this can be set by config file.
 
 ## Source Code
-The program is written in C, using libev. The source code is not open source for now.
-If you need the source code, you can purchase a copy of it. 
+The program is written in C, using libev. The source code open source, see https://github.com/lazytinker/ntripcaster
