@@ -1,6 +1,8 @@
 # Ntripcaster binaries
 GNSS ntrip broadcaster executables.
 
+Now moved to https://github.com/tisyang/ntripcaster/releases
+
 ## Features
 1. Support Ntrip 1.0 protocol. Support ntrip clients and servers, and dynamic source table.
 2. Support Linux and Windows.
